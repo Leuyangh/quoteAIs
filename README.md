@@ -6,6 +6,7 @@ Tools:
 	Jupyter, Keras, Tensorflow
 	
 N-Gram & LSTM models. Training data private. .h5 models and .pkl files to come
+
 	N-Gram model: used 4-grams. Tested with 3 and results weren't as coherent. Also 4-grams for 4fun AI
 
 	LSTM models: 100 epochs, 50 length sequences (~50-100k), 3 layers, ReLU and Softmax activation,
