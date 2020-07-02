@@ -1,6 +1,6 @@
 # quoteAIs
 Training an AI to generate quotes of my friends and I using our skype data as training
-(Disclaimer, these are 4fun bots. Practical use is limited and any offensive results are the bots' fault, not mine)
+(Disclaimer, these are 4fun bots. Practical use is limited and any questionable results are the bots' fault, not mine)
 
 Steps to run:
 1. Clone repo
